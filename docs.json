@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Mint Starter Kit",
-  "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+ "colors": {
+    "primary": "#FFD700",
+    "light": "#FFC107",
+    "dark": "#B8860B"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -14,55 +14,29 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "HINDSIGHT V1",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "How does it work?",
+              "Eco View"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Lighthouse",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
+              "Introduction",
+              "How does it work",
               "essentials/images",
               "essentials/reusable-snippets"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Iframe Integration",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "Introduction",
+              "Interactive Demo",
+              "Quick start",
+              "Pricing"
             ]
           }
         ]
@@ -102,15 +76,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
