@@ -24,19 +24,19 @@
           {
             "group": "Lighthouse",
             "pages": [
-              "Introduction",
-              "How does it work",
+              "introduction",
+              "how does it work",
               "essentials/images",
               "essentials/reusable-snippets"
             ]
           },
           {
-            "group": "Iframe Integration",
+            "group": "iframe integration",
             "pages": [
-              "Introduction",
-              "Interactive Demo",
-              "Quick start",
-              "Pricing"
+              "introduction",
+              "interactive Demo",
+              "quickstart",
+              "pricing"
             ]
           }
         ]
@@ -44,11 +44,7 @@
     ],
     "global": {
       "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        }
+        
       ]
     }
   },
