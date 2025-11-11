@@ -17,17 +17,13 @@
             "group": "HINDSIGHT V1",
             "pages": [
               "index",
-              "how-does-it-work",
               "Eco View"
             ]
           },
           {
             "group": "Lighthouse",
             "pages": [
-              "introduction",
-              "how-does-it-work",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "introduction"
             ]
           },
           {
@@ -43,9 +39,7 @@
       }
     ],
     "global": {
-      "anchors": [
-        
-      ]
+      "anchors": []
     }
   },
   "logo": {
