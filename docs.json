@@ -15,11 +15,17 @@
         "groups": [
           {
             "group": "HINDSIGHT V1",
-            "pages": ["index", "how-does-it-work", "eco-view"]
+            "pages": [
+              "index",
+              "how-does-it-work",
+              "eco-view"
+            ]
           },
           {
             "group": "Lighthouse",
-            "pages": ["lighthouse/introduction"]
+            "pages": [
+              "lighthouse/introduction"
+            ]
           },
           {
             "group": "Iframe Integration",
@@ -32,10 +38,10 @@
           }
         ]
       }
-    ]
-  },
-  "global": {
-    "anchors": []
+    ],
+    "global": {
+      "anchors": []
+    }
   },
   "logo": {
     "light": "/logo/light.svg",
