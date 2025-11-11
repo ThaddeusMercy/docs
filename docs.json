@@ -16,7 +16,7 @@
           {
             "group": "HINDSIGHT V1",
             "pages": [
-              "index",
+              "hindsight-intro",
               "how-does-it-work",
               "eco-view"
             ]
