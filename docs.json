@@ -27,7 +27,9 @@
           {
             "group": "Lighthouse",
             "pages": [
-              "lighthouse/introduction"
+              "lighthouse/introduction",
+              "lighthouse/quick-start",
+              "lighthouse/commands-guide"
             ]
           },
           {
